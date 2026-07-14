@@ -22,8 +22,12 @@ Mobile developer specializing in React Native & Expo. I build and ship productio
 
 • End-to-end delivery: from the first screen to a published, updatable app
 
+### ⚡ How I build
+
+AI-assisted, vibe-coding workflow — I lean on Claude, Cursor, and modern AI tooling to prototype and ship production features fast, without cutting corners on quality.
+
 ### ⚙️ Stack
 
-React Native · Expo · TypeScript · Next.js · Convex · Supabase · Firebase
+React Native · Expo · TypeScript · Next.js · Convex · Supabase · Firebase · Claude · Cursor
 
 📫 Most of my product code is private, but I'm always happy to walk through my work — reach me at https://genzi.app
