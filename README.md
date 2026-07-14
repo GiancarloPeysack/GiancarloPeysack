@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Giancarlo 👋
 
-<!--
-**GiancarloPeysack/GiancarloPeysack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile developer specializing in React Native & Expo. I build and ship production apps end to end — including the part most developers avoid: App Store & Google Play submission, signing, and review.
 
-Here are some ideas to get you started:
+### 📱 Live apps I've shipped
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Genzi — consumer app, live on the App Store · https://genzi.app
+• Lexfall — live on the App Store
+
+### 🛠️ What I do
+
+• React Native / Expo — EAS build & submit, TestFlight, store review
+• TypeScript & Next.js on the web
+• Convex / Firebase backends and REST APIs
+• End-to-end delivery: from the first screen to a published, updatable app
+
+### ⚙️ Stack
+
+React Native · Expo · TypeScript · Next.js · Convex · Firebase
+
+📫 Most of my product code is private, but I'm always happy to walk through my work — reach me at https://genzi.app
