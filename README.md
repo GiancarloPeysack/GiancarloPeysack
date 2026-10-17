@@ -6,7 +6,7 @@ Mobile developer specializing in React Native & Expo. I build and ship productio
 
 • **Genzi** — consumer app, live on the App Store · https://genzi.app
 
-• **Lexfall** — live on the App Store, plus a widget and monetization system · https://luxfall.online
+• **Lexfall** — live on the App Store, plus a widget and monetization system · https://lexfall.app · [App Store](https://apps.apple.com/app/id6786614029) · [source code](https://github.com/GiancarloPeysack/lexfall-shipaton)
 
 • **Marketopsiq** — live on the App Store and Google Play · https://marketopsiq.com
 
@@ -30,4 +30,4 @@ AI-assisted, vibe-coding workflow — I lean on Claude, Cursor, and modern AI to
 
 React Native · Expo · TypeScript · Next.js · Convex · Supabase · Firebase · Claude · Cursor
 
-📫 Most of my product code is private, but I'm always happy to walk through my work — reach me at https://genzi.app
+📫 Most of my product code is private. The Lexfall client app is public as a code sample: [lexfall-shipaton](https://github.com/GiancarloPeysack/lexfall-shipaton). I'm always happy to walk through the rest — portfolio at https://giancarlopeysack-com.vercel.app
